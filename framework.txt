@@ -1,0 +1,8 @@
+Page1:
+- Logo/Brand Company
+- Quote Vision
+- Coming soon message
+
+Page2:
+- Geolabx 
+- Social Media links
